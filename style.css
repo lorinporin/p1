@@ -1,0 +1,79 @@
+body{
+
+background-image: url(https://i.pinimg.com/originals/7a/ac/b5/7aacb5388354bdc13e9d36d8e3887d63.jpg);
+
+}
+
+.head{
+text-shadow: 5px 5px darkslateblue;
+text-decoration-line: underline;
+text-decoration-color: grey;
+font-size: 200%;
+font-family: 'Borel', cursive;
+font-family: 'Changa One', sans-serif;  
+border: 10px groove rgb(193, 143, 251);
+background-image:url(https://i.pinimg.com/1200x/a3/4f/57/a34f57a7ef5f6a62813501b59294ebfc.jpg) ;
+
+
+
+}
+h1{
+    color: silver;
+    display: inline;
+    margin-left:10px;
+}
+img{
+   
+    border: 10px groove deeppink;
+    width:300px;
+
+}
+p{  
+    color: silver;
+    font-size: 120%;
+    font-family: 'Borel', cursive;
+    font-family: 'Changa One', sans-serif; 
+    display: inline;
+    
+
+}
+
+h2{
+    text-align: center;
+    color: darkslateblue;
+    background-color: rgb(193, 143, 251);
+    font-size: 200%;
+    font-family: 'Borel', cursive;
+    font-family: 'Changa One', sans-serif; 
+
+}
+
+video{
+    border: 10px groove rgb(193, 143, 251);
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img{
+
+    border: none;
+    display: block;
+    margin-right: auto;
+    margin-left:auto;
+}
+
+button{
+  font-size: 200%;  
+font-family: 'Borel', cursive;
+font-family: 'Changa One', sans-serif;
+font-family: 'Forum', serif;
+    color: red;
+    background-color: black;
+    width: 200px;
+    height: 225px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
